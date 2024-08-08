@@ -36,5 +36,3 @@ Finally import the contacts
 ![Click Campaign from Selector](/images/import_contacts_04.png)
 
 If the operation succeeds you should see contacts
-
-[Foo Bar](/managing_your_account/profile_limits_exceeded)

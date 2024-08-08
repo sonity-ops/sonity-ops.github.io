@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sonity', // Usually your GitHub org/user name.
-  projectName: 'app-docs', // Usually your repo name.
+  organizationName: 'sonity-docs', // Usually your GitHub org/user name.
+  projectName: 'user-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
