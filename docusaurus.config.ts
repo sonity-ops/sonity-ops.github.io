@@ -71,11 +71,11 @@ const config: Config = {
           label: 'Support',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -85,26 +85,30 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Support',
-              to: '/docs/intro',
+              label: 'Campaigns',
+              to: '/docs/category/campaigns',
+            },
+            {
+              label: 'Integration',
+              to: '/docs/category/integration',
+            },
+            {
+              label: 'Account Management',
+              to: '/docs/category/managing-your-account',
+            },
+            {
+              label: 'Using Sonity',
+              to: '/docs/category/using-sonity',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+              label: 'Linked In',
+              href: 'https://www.linkedin.com/company/sonity-ltd',
+            }
           ],
         },
         {
@@ -115,8 +119,8 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Website',
+              href: 'https://sonity.info',
             },
           ],
         },
