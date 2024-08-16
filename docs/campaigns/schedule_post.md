@@ -21,3 +21,7 @@ Enter campaign name and click Finish:
 After you campaign is created you need to add posts to the campaign.
 
 ![Add contacts by linkedin search](/images/schedule_posts_03.png)
+
+### Step 4: Enable Campaign
+Go to the Settings tab and click the enable campaign switch
+

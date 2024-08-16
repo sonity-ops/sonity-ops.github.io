@@ -1,4 +1,4 @@
-# What integration options are available for Sonity?
+# Sonity integration options
 ![Click Campaign from Selector](/images/integration.png)
 
 For now there are two methods

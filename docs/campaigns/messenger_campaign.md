@@ -38,5 +38,5 @@ From here you need to add the steps. Sonity will execute each of these steps aga
 
 ![Messenger Steps](/images/messenger-campaign-steps.png)
 
-For more information check the Steps documentation
+For more information check the [Steps documentation](../../docs/campaigns/campaign_steps.md)
 

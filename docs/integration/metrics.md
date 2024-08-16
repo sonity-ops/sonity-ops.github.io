@@ -1,6 +1,6 @@
-# How can I track LinkedIn automation metrics within my analytics dashboard?
+# How can I track Sonity metrics within my analytics dashboard?
 
-Yes. You can acomplish that via and Events dump
+Yes. You can acomplish that via an Events dump
 
 ## What are events
 Events are occasions that happens in your campaign such as

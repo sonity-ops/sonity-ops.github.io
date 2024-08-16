@@ -1,4 +1,4 @@
-# Recieving real time updates with Webhooks?
+# Recieving real time updates with Webhooks
 
 Sonity supports webhook integration, which provides you with real-time updates. This feature ensures that you stay informed about the latest activities and responses within your automation campaigns.
 
