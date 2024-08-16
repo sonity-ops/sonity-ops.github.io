@@ -45,9 +45,10 @@ This is of course ideal when you have a few specific contacts that you are targe
 
 #### Method 3: Upload CSV File
 
-You can also add contacts by using a CSV file. Upload the file and follow the prompts:
+You can also [add contacts by using a CSV file](../../docs/integration/import_contacts). Upload the file and follow the prompts:
 
 ![Create a connector campaign](/images/create_connector_campaign_03c.png)
 
 After this is done it should take you to the People Tab:
 
+![Upload contacts from CSV](/images/inmail_campaign_04.png)
